@@ -5,6 +5,7 @@
 section{
     display: flex;
     margin-bottom: 150px;
+    margin-left: 10%;
 }
 .img{
     width: 50%;
@@ -32,10 +33,12 @@ section{
     padding-top: 12%;
 }
 
-h1.m{
-    text-align: center;
+.uni{
+    
     font-size: 40px;
-    width: 10%;
+    width: 90%;
+    margin-left: 30%;
+   
 }
 .a{
     width: 20%;
@@ -86,7 +89,8 @@ h1.m{
     padding: 10px;
     background-size: 20px;
 }
-.mail{
-    background-color: none;
-    box-shadow: 0cqmin;
+.unique{
+    background-color: rgb(214, 199, 199);
+    font-weight: 700;
+    padding-right: 10%;
 }
